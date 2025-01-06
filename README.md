@@ -1,2 +1,10 @@
-# Discord-Block-Bypass
-Message a user who is blocked using the Discord API.
+# Discord Block Bypass
+
+## Overview
+Send messages to a blocked user, using Discords API.
+
+## Prerequisites
+- Python 3.7+
+- `requests` library installed (`pip install requests`)
+
+---
